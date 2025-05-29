@@ -10,7 +10,7 @@ This is a beginner-level Python project I built as part of my MSc Bioinformatics
 - Generates the reverse complement
 
 ### 🚀 Tools used:
-- Python
+- Python 
 - Jupyter Notebook
 
 ### 📌 What I learned:
